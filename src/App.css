@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  width: 50%;
+  margin: auto;
+}
+
+button {
+  /* font-size: calc(10px + 2vmin); */
+  font-size: 25px;
+  background-color: aquamarine;
+  color: gray;
+  border-radius: 10px;
+  border: none;
+}
